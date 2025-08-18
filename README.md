@@ -1,2 +1,2 @@
 # GRAM-RL
-Code of ReinforcementLearning-DrivenGenerativeRetrievalwith  Semantic-aligned Multi-LayerIdentifiers
+Code of Reinforcement Learning-Driven Generative Retrieval with Semantic-aligned Multi-LayerIdentifiers
